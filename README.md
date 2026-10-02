@@ -1,31 +1,34 @@
 <div align="center">
 
-# 👋 Hi, I'm Neha Ambewadkar
+#  Hi, I'm Neha Ambewadkar
 
-### 🤖 AI/ML Engineer | 💻 Software Developer
+### 🤖 AI/ML Engineer | 💻 Software Developer | 🎓 Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI%2FML+%7C+Software+Development;Building+Practical+AI+%26+Software+Solutions;Learning+%7C+Building+%7C+Solving"
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Software+Development;Building+Practical+AI+Solutions;Python+%7C+Machine+Learning+%7C+APIs;Learning+%7C+Building+%7C+Solving"
 alt="Typing Animation">
 
 <br>
 
 <a href="https://github.com/nehaambewadkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+<img src="https://img.shields.io/badge/GitHub-nehaambewadkar-181717?style=for-the-badge&logo=github&logoColor=white"
 alt="GitHub">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/neha-ambewadkar-4296a32b8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn">
 </a>
 
 <br><br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f"
+<!-- Animated Girl Coding -->
+<img
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3"
 width="500"
-alt="Girl typing on laptop">
+alt="Girl coding animation">
 
 </div>
 
@@ -33,19 +36,21 @@ alt="Girl typing on laptop">
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student** with a strong foundation in
-software development, problem-solving, and core computer science concepts.
+I'm a **Computer Science Engineering student** with hands-on experience
+in **Python, C++, SQL, Flask, FastAPI, and REST APIs**.
 
 My primary area of interest is **Artificial Intelligence and Machine Learning**,
-and I enjoy building practical applications that apply AI to real-world problems.
+and I enjoy building practical AI applications that solve real-world problems.
 
-I also enjoy **software development**, backend development, APIs, and exploring
-secure software systems.
+I also enjoy software development, backend development, APIs, secure
+communication systems, and continuously improving my problem-solving skills.
 
 - 🤖 Interested in **AI/ML, GenAI, and Data Analysis**
+- 🐍 Working with **Python and Machine Learning**
+- 💻 Building **AI and backend applications**
+- 🔌 Developing **REST APIs and backend systems**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 💻 Building practical **AI and software applications**
-- 🔐 Exploring **secure software systems and cybersecurity**
+- 🔐 Exploring **secure communication and cybersecurity**
 - 📚 Continuously learning and improving my technical skills
 
 ---
@@ -54,71 +59,88 @@ secure software systems.
 
 ### 🤖 AI / Machine Learning
 
-`Python` · `Machine Learning` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
+`Python` · `Machine Learning` · `Pandas` · `NumPy` ·
+`Matplotlib` · `Scikit-learn` · `Google Gemini` · `Whisper` · `SciSpacy`
 
-### 💻 Programming & Development
+### 💻 Programming & Software Development
 
-`C++` · `SQL` · `Flask` · `REST APIs` · `JSON` · `HTML` · `CSS`
+`C++` · `SQL` · `JavaScript` · `Flask` · `FastAPI` ·
+`REST APIs` · `HTML` · `CSS` · `JSON`
 
 ### 🧠 Core Computer Science
 
-`Data Structures & Algorithms` · `Object-Oriented Programming` ·  
-`Operating Systems` · `Computer Networks`
+`Data Structures & Algorithms` ·
+`Object-Oriented Programming` ·
+`Operating Systems` ·
+`Computer Networks`
 
-### 🔐 Security & Tools
+### 🔐 Security
 
-`Authentication` · `Encryption` · `Secure Communication` ·  
-`Git` · `GitHub` · `Linux` · `Google Cloud` · `VS Code` · `Jupyter Notebook`
+`Cryptography` · `AES-256-GCM` ·
+`Authentication` · `Secure Communication`
+
+### ☁️ Tools & Platforms
+
+`Git` · `GitHub` · `Google Cloud Platform` ·
+`VS Code` · `Jupyter Notebook`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Multilingual AI Document Intelligence System — Healthcare
+### 🤖 LinguaOPD — AI-Assisted Multilingual OPD Documentation System
 
-An AI-powered documentation system designed to improve healthcare workflow
-efficiency.
+`React.js` · `FastAPI` · `Python` · `Google Gemini` ·
+`Whisper` · `SciSpacy` · `SQLite`
 
-- Developed a multilingual AI-powered documentation system
-- Integrated AI-based text processing
-- Implemented multilingual translation
-- Generated structured documentation from healthcare information
+- Built a multilingual AI-assisted system for OPD documentation.
+- Captures and transcribes doctor-patient conversations using **Whisper**.
+- Uses **Google Gemini** and **SciSpacy** for medical information extraction.
+- Generates structured OPD documentation including complaints, history,
+  diagnosis, and advice.
+- Implemented patient-record storage with update/edit functionality.
+- Developed a React frontend with a FastAPI backend and REST APIs.
 
-**Focus:** `AI/ML` · `Text Processing` · `Multilingual AI` · `Healthcare`
-
----
-
-### 🔐 Quantum Secure Email Client Application
-
-A secure email client application focused on authentication, encryption,
-and secure communication.
-
-- Developed the application using Python
-- Implemented authentication and encryption
-- Applied client-server communication concepts
-- Focused on protecting sensitive data and communication privacy
-
-**Focus:** `Python` · `Authentication` · `Encryption` · `Cybersecurity`
+🔗 **[View Project](https://github.com/nehaambewadkar/LinguaOPD)**
 
 ---
 
-## 💼 Virtual Experience
+### 🔐 QuMail — Secure Email System
+
+`Python` · `Flask` · `Cryptography` · `AES-256-GCM`
+
+- Built a secure email application for encrypted communication.
+- Implemented **AES-256-GCM** encryption for message protection.
+- Developed a **Flask-based web interface**.
+- Integrated cryptographic functionality into the application.
+
+🔗 **[View Project](https://github.com/nehaambewadkar/Qumail)**
+
+---
+
+## 💼 Virtual Experience Programs
 
 ### 🧠 BCG GenAI Job Simulation — Forage
 
 **April 2026**
 
-- Built an LLM-powered financial chatbot using Python and Pandas
-- Analyzed 10-K and 10-Q financial reports
-- Applied GenAI techniques to extract actionable business insights
+`Python` · `Pandas` · `LLM` · `GenAI`
+
+- Built an LLM-powered financial chatbot using Python and Pandas.
+- Analyzed 10-K and 10-Q financial reports.
+- Applied GenAI techniques to extract actionable business insights.
+
+---
 
 ### 🔐 Deloitte Cyber Job Simulation — Forage
 
 **August 2025**
 
-- Performed threat analysis and risk identification
-- Applied threat modeling concepts
-- Worked with risk assessment in a cybersecurity simulation
+`Threat Analysis` · `Risk Assessment` · `Threat Modeling`
+
+- Performed threat analysis and risk identification.
+- Applied threat modeling concepts.
+- Worked with risk assessment in a cybersecurity simulation.
 
 ---
 
@@ -134,42 +156,49 @@ and secure communication.
 
 ## 📜 Certifications
 
-### Claude 101 — Anthropic
+### 🤖 Claude 101 — Anthropic
 
 **March 2026**
 
-Learned fundamentals of AI, prompt engineering, and practical applications
-of Large Language Models.
+Learned fundamentals of AI, prompt engineering, and practical
+applications of Large Language Models.
 
-### Introduction to Generative AI Studio — Google Cloud
+### ☁️ Introduction to Generative AI Studio — Google Cloud
 
 **September 2025**
 
-Covered core generative AI concepts and experimented with intelligent
-AI applications.
+Covered core Generative AI concepts and experimented with
+intelligent AI applications.
 
 ---
 
 ## 🧠 DSA & Problem Solving
 
-I'm actively strengthening my **Data Structures & Algorithms** and
-problem-solving skills.
+Currently strengthening my **Data Structures & Algorithms**
+and problem-solving skills.
 
-**Currently practicing:**
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` ·  
-`Stacks & Queues` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` ·
+`Sliding Window` · `Stacks & Queues` · `Linked Lists` ·
+`Trees` · `Graphs` · `Dynamic Programming`
 
 ---
 
 ## 🎯 Currently Focusing On
 
-🤖 Artificial Intelligence & Machine Learning  
-💻 Software Development  
-🧠 Data Structures & Algorithms  
-📊 Data Analysis  
-🔐 Secure Software Systems  
-🚀 Building Practical Projects  
+🤖 Artificial Intelligence & Machine Learning
+
+💻 Software Development
+
+🐍 Python Development
+
+🧠 Data Structures & Algorithms
+
+📊 Data Analysis
+
+🔐 Secure Software Systems
+
+🚀 Building Practical AI Projects
+
 📚 Continuous Learning
 
 ---
