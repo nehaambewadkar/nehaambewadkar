@@ -2,7 +2,7 @@
 
 #  Hi, I'm Neha Ambewadkar
 
-### 🤖 AI/ML Engineer | 💻 Software Developer | 🎓 Computer Science Engineering Student
+###  AI/ML Engineer |  Software Developer 
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Software+Development;Building+Practical+AI+Solutions;Python+%7C+Machine+Learning+%7C+APIs;Learning+%7C+Building+%7C+Solving"
