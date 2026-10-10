@@ -42,7 +42,7 @@ in **Python, C++, SQL, Flask, FastAPI, and REST APIs**.
 My primary area of interest is **Artificial Intelligence and Machine Learning**,
 and I enjoy building practical AI applications that solve real-world problems.
 
-I also enjoy software development, backend development, APIs, secure
+I also enjoy software development,APIs, secure
 communication systems, and continuously improving my problem-solving skills.
 
 - 🤖 Interested in **AI/ML, GenAI, and Data Analysis**
