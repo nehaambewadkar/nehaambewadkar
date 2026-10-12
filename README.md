@@ -116,33 +116,6 @@ communication systems, and continuously improving my problem-solving skills.
 
 🔗 **[View Project](https://github.com/nehaambewadkar/Qumail)**
 
----
-
-## 💼 Virtual Experience Programs
-
-### 🧠 BCG GenAI Job Simulation — Forage
-
-**April 2026**
-
-`Python` · `Pandas` · `LLM` · `GenAI`
-
-- Built an LLM-powered financial chatbot using Python and Pandas.
-- Analyzed 10-K and 10-Q financial reports.
-- Applied GenAI techniques to extract actionable business insights.
-
----
-
-### 🔐 Deloitte Cyber Job Simulation — Forage
-
-**August 2025**
-
-`Threat Analysis` · `Risk Assessment` · `Threat Modeling`
-
-- Performed threat analysis and risk identification.
-- Applied threat modeling concepts.
-- Worked with risk assessment in a cybersecurity simulation.
-
----
 
 ## 🎓 Education
 
