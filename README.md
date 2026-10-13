@@ -125,25 +125,8 @@ communication systems, and continuously improving my problem-solving skills.
 
 **CGPA: 8.73 | Expected 2027**
 
----
 
-## 📜 Certifications
 
-### 🤖 Claude 101 — Anthropic
-
-**March 2026**
-
-Learned fundamentals of AI, prompt engineering, and practical
-applications of Large Language Models.
-
-### ☁️ Introduction to Generative AI Studio — Google Cloud
-
-**September 2025**
-
-Covered core Generative AI concepts and experimented with
-intelligent AI applications.
-
----
 
 ## 🧠 DSA & Problem Solving
 
