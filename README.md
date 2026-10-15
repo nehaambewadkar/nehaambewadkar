@@ -63,7 +63,7 @@ communication systems, and continuously improving my problem-solving skills.
 
 ### 💻 Programming & Software Development
 
-`C++` · `SQL` · `JavaScript` · `Flask` · `FastAPI` ·
+`C++` · `SQL` · `Flask` · `FastAPI` ·
 `REST APIs` · `HTML` · `CSS` · `JSON`
 
 ### 🧠 Core Computer Science
@@ -124,17 +124,6 @@ communication systems, and continuously improving my problem-solving skills.
 
 **CGPA: 8.73 | Expected 2027**
 
-## 🧠 DSA & Problem Solving
-
-Currently strengthening my **Data Structures & Algorithms**
-and problem-solving skills.
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` ·
-`Sliding Window` · `Stacks & Queues` · `Linked Lists` ·
-`Trees` · `Graphs` · `Dynamic Programming`
-
----
-
 ## 🎯 Currently Focusing On
 
 🤖 Artificial Intelligence & Machine Learning
@@ -147,7 +136,6 @@ and problem-solving skills.
 
 📊 Data Analysis
 
----
 
 ## 📫 Let's Connect
 
