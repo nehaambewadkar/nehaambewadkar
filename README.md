@@ -147,12 +147,6 @@ and problem-solving skills.
 
 📊 Data Analysis
 
-🔐 Secure Software Systems
-
-🚀 Building Practical AI Projects
-
-📚 Continuous Learning
-
 ---
 
 ## 📫 Let's Connect
