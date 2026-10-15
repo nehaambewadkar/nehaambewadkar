@@ -53,7 +53,6 @@ communication systems, and continuously improving my problem-solving skills.
 - 🔐 Exploring **secure communication and cybersecurity**
 - 📚 Continuously learning and improving my technical skills
 
----
 
 ## 🛠️ Technical Skills
 
@@ -124,9 +123,6 @@ communication systems, and continuously improving my problem-solving skills.
 **Jain College of Engineering and Research, Belagavi**
 
 **CGPA: 8.73 | Expected 2027**
-
-
-
 
 ## 🧠 DSA & Problem Solving
 
