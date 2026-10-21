@@ -122,7 +122,7 @@ communication systems, and continuously improving my problem-solving skills.
 
 **Jain College of Engineering and Research, Belagavi**
 
-**CGPA: 8.73 | Expected 2027**
+**CGPA: 8.73 | 2027**
 
 ## 🎯 Currently Focusing On
 
