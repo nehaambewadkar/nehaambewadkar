@@ -59,7 +59,7 @@ communication systems, and continuously improving my problem-solving skills.
 ### 🤖 AI / Machine Learning
 
 `Python` · `Machine Learning` · `Pandas` · `NumPy` ·
-`Matplotlib` · `Scikit-learn` · `Google Gemini` · `Whisper` · `SciSpacy`
+`Matplotlib` · `Scikit-learn` 
 
 ### 💻 Programming & Software Development
 
