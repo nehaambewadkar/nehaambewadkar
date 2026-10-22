@@ -124,17 +124,7 @@ communication systems, and continuously improving my problem-solving skills.
 
 **CGPA: 8.73 | 2027**
 
-## 🎯 Currently Focusing On
 
-🤖 Artificial Intelligence & Machine Learning
-
-💻 Software Development
-
-🐍 Python Development
-
-🧠 Data Structures & Algorithms
-
-📊 Data Analysis
 
 
 ## 📫 Let's Connect
