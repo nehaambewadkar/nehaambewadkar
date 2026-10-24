@@ -49,7 +49,6 @@ communication systems, and continuously improving my problem-solving skills.
 - 🐍 Working with **Python and Machine Learning**
 - 💻 Building **AI and backend applications**
 - 🔌 Developing **REST APIs and backend systems**
-- 🧠 Practicing **Data Structures & Algorithms**
 - 🔐 Exploring **secure communication and cybersecurity**
 - 📚 Continuously learning and improving my technical skills
 
