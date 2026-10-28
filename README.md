@@ -94,7 +94,7 @@ communication systems, and continuously improving my problem-solving skills.
 - Built a multilingual AI-assisted system for OPD documentation.
 - Captures and transcribes doctor-patient conversations using **Whisper**.
 - Uses **Google Gemini** and **SciSpacy** for medical information extraction.
-- Generates structured OPD documentation including complaints, history,
+- Generates structured OPD documentation including history,
   diagnosis, and advice.
 - Implemented patient-record storage with update/edit functionality.
 - Developed a React frontend with a FastAPI backend and REST APIs.
