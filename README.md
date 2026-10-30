@@ -63,7 +63,7 @@ communication systems, and continuously improving my problem-solving skills.
 ### 💻 Programming & Software Development
 
 `C++` · `SQL` · `Flask` · `FastAPI` ·
-`REST APIs` · `HTML` · `CSS` · `JSON`
+`REST APIs` · `HTML` · `CSS` ·
 
 ### 🧠 Core Computer Science
 
