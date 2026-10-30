@@ -35,9 +35,7 @@ alt="Girl coding animation">
 ---
 
 ## 👩‍💻 About Me
-
-I'm a **Computer Science Engineering student** with hands-on experience
-in **Python, C++, SQL, Flask, FastAPI, and REST APIs**.
+"I’m a Computer Science Engineering student with a strong passion for learning, innovation, and problem-solving. I believe in turning ideas into meaningful solutions, embracing new challenges, and continuously growing through experience. I strive to make a positive impact through creativity, dedication, and a mindset focused on lifelong learning."
 
 My primary area of interest is **Artificial Intelligence and Machine Learning**,
 and I enjoy building practical AI applications that solve real-world problems.
