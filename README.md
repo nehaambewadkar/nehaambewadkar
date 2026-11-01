@@ -35,13 +35,11 @@ alt="Girl coding animation">
 ---
 
 ## 👩‍💻 About Me
-"I’m a Computer Science Engineering student with a strong passion for learning, innovation, and problem-solving. I believe in turning ideas into meaningful solutions, embracing new challenges, and continuously growing through experience. I strive to make a positive impact through creativity, dedication, and a mindset focused on lifelong learning."
+I'm a Computer Science Engineering graduate-in-progress with a passion for technology, innovation, and continuous learning. I enjoy exploring new ideas, embracing challenges, and transforming concepts into meaningful solutions.
 
-My primary area of interest is **Artificial Intelligence and Machine Learning**,
-and I enjoy building practical AI applications that solve real-world problems.
+I believe that growth comes from curiosity, creativity, and the willingness to step beyond comfort zones. My interests lie in Artificial Intelligence, Machine Learning, and Software Development, where I enjoy exploring how technology can make a real-world difference.
 
-I also enjoy software development,APIs, secure
-communication systems, and continuously improving my problem-solving skills.
+I aspire to become a skilled technology professional who combines innovative thinking with problem-solving to create impactful solutions.
 
 - 🤖 Interested in **AI/ML, GenAI, and Data Analysis**
 - 🐍 Working with **Python and Machine Learning**
