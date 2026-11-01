@@ -41,13 +41,15 @@ I believe that growth comes from curiosity, creativity, and the willingness to s
 
 I aspire to become a skilled technology professional who combines innovative thinking with problem-solving to create impactful solutions.
 
-- 🤖 Interested in **AI/ML, GenAI, and Data Analysis**
-- 🐍 Working with **Python and Machine Learning**
-- 💻 Building **AI and backend applications**
-- 🔌 Developing **REST APIs and backend systems**
-- 🔐 Exploring **secure communication and cybersecurity**
-- 📚 Continuously learning and improving my technical skills
+🤖 Exploring Artificial Intelligence and Emerging Technologies
 
+💡 Passionate about Innovation and Creative Problem-Solving
+
+🚀 Interested in Building Meaningful Technology Solutions
+
+🌱 Constantly Learning, Growing, and Exploring New Possibilities
+
+🎯 Focused on Personal and Professional Development
 
 ## 🛠️ Technical Skills
 
