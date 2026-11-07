@@ -39,7 +39,7 @@ I'm a Computer Science Engineering graduate-in-progress with a passion for techn
 
 I believe that growth comes from curiosity, creativity, and the willingness to step beyond comfort zones. My interests lie in Artificial Intelligence, Machine Learning, and Software Development, where I enjoy exploring how technology can make a real-world difference.
 
-🤖 Exploring Artificial Intelligence and Emerging Technologies
+🤖 Exploring Artificial Intelligence and Technologies
 
 💡 Passionate about Innovation and Creative Problem-Solving
 
