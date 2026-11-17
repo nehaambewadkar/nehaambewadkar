@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hii I'm Neha Ambewadkar
+#  Hi I'm Neha Ambewadkar
 
 ###  AI/ML Engineer
 
