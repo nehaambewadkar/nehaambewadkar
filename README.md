@@ -75,7 +75,7 @@ I believe that growth comes from curiosity, creativity, and the willingness to s
 
 ### ☁️ Tools & Platforms
 
-`Git` · `GitHub` · `Google Cloud Platform` ·
+`Git` · `GitHub`  ·
 `VS Code` · `Jupyter Notebook`
 
 ---
