@@ -59,7 +59,7 @@ I believe that growth comes from curiosity, creativity, and the willingness to s
 ### 💻 Programming & Software Development
 
 `C++` · `SQL` · `Flask` · `FastAPI` ·
-`REST APIs` · `HTML` · `CSS` ·
+`REST APIs` · `HTML` · `CSS` 
 
 ### 🧠 Core Computer Science
 
