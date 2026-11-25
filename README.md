@@ -53,7 +53,7 @@ I believe that growth comes from curiosity, creativity, and the willingness to s
 
 ### 🤖 AI / Machine Learning
 
-`Python` · `Machine Learning` · `Pandas` · `NumPy` 
+`Python` · `Machine Learning` · `Pandas` · `NumPy` .
 `Matplotlib` · `Scikit-learn` 
 
 ### 💻 Programming & Software Development
